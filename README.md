@@ -1,0 +1,1 @@
+一个用于生成Altium Designer原理图封装的python程序
