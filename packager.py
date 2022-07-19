@@ -33,7 +33,7 @@ head2 = '''|ISBOC=T|RECORD=31|VISIBLEGRIDON=T|VISIBLEGRIDSIZE=10|DISPLAY_UNIT=4|
 '''
 
 def main():
-    Component_overname =input("输入元件标号(eg:U)：")
+    Component_overname =input("输入元件位号(eg:U)：")
     Component_name = input("输入设元件名称(eg:3PIN)：")
     Component_pin = int(input("输入元件pin数量(eg:30)："))
     Component_size = input("输入元件宽度(eg:5)：")
